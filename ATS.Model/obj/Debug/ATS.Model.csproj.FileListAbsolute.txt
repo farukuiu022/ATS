@@ -1,0 +1,15 @@
+E:\MVC\test1\ATS.Model\bin\Debug\ATS.Model.dll.config
+E:\MVC\test1\ATS.Model\bin\Debug\ATS.Model.dll
+E:\MVC\test1\ATS.Model\bin\Debug\ATS.Model.pdb
+E:\MVC\test1\ATS.Model\bin\Debug\EntityFramework.dll
+E:\MVC\test1\ATS.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\test1\ATS.Model\bin\Debug\EntityFramework.xml
+E:\MVC\test1\ATS.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\test1\ATS.Model\obj\Debug\ATS.Model.csprojResolveAssemblyReference.cache
+E:\MVC\test1\ATS.Model\obj\Debug\test1.Migrations.InitialCreate.resources
+E:\MVC\test1\ATS.Model\obj\Debug\test1.Migrations.trainar_one.resources
+E:\MVC\test1\ATS.Model\obj\Debug\test1.Migrations.trainar_one1.resources
+E:\MVC\test1\ATS.Model\obj\Debug\test1.Migrations.trainar_one11.resources
+E:\MVC\test1\ATS.Model\obj\Debug\ATS.Model.csproj.GenerateResource.Cache
+E:\MVC\test1\ATS.Model\obj\Debug\ATS.Model.dll
+E:\MVC\test1\ATS.Model\obj\Debug\ATS.Model.pdb
